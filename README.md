@@ -13,7 +13,7 @@ Embedded in GuitarThing is a Linux computer with several audio devices.
   * [MP3 Trigger](https://www.sparkfun.com/products/11029) for playing songs or sound effects.
   * [Emic2](https://www.sparkfun.com/products/11711) for speaking text.
   * [Shamp Model 1](https://github.com/cjdaly/shamp) for mixing MP3 Trigger and Emic2 audio.
-  * USB powered speakers (not visible, behind canvas) to amplify Shamp output.
+  * USB powered speakers (behind canvas) to amplify Shamp output.
 
 In low light conditions, LEDs on several of the parts cast light onto the canvas.
 
