@@ -23,6 +23,8 @@ LEDs on several of the parts cast light onto the canvas, which is visible in low
 * MP3 Trigger (center) power light casts a red glow.
 * BeagleBone Black Ubuntu distribution ties Linux heartbeat to blue LED.
 
+![GuitarThing closeup](https://github.com/cjdaly/GuitarThing/wiki/images/GuitarThing-closeup.jpg)
+
 ### Wiki topics
 
 * Details of the [concept and construction](https://github.com/cjdaly/GuitarThing/wiki/Concept-and-Construction).
