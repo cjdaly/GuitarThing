@@ -11,7 +11,7 @@ Embedded in GuitarThing is a Linux computer with several audio devices.
 * BeagleBone Black [model A6](http://elinux.org/Beagleboard:BeagleBoneBlack) running Ubuntu Linux.
 * Audio peripheral devices:
   * [MP3 Trigger](https://www.sparkfun.com/products/11029) for playing songs or sound effects.
-  * [Emic2](https://www.sparkfun.com/products/11711) for reading text.
+  * [Emic2](https://www.sparkfun.com/products/11711) for speaking text.
   * [Shamp Model 1](https://github.com/cjdaly/shamp) for mixing MP3 Trigger and Emic2 audio.
   * USB powered speakers (not visible, behind canvas) to amplify Shamp output.
 
