@@ -22,3 +22,8 @@ In low light conditions, LEDs on several of the parts cast light onto the canvas
 * Emic2 (upper right) casts a green glow when idling (red when speaking).
 * MP3 Trigger (center) power light casts a red glow.
 * BeagleBone Black Ubuntu distribution ties Linux heartbeat to blue LED.
+
+### Wiki topics
+
+* details of the [concept and construction](https://github.com/cjdaly/GuitarThing/wiki/Concept-and-Construction)
+
