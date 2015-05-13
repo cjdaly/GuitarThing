@@ -25,5 +25,6 @@ In low light conditions, LEDs on several of the parts cast light onto the canvas
 
 ### Wiki topics
 
-* details of the [concept and construction](https://github.com/cjdaly/GuitarThing/wiki/Concept-and-Construction)
+* Details of the [concept and construction](https://github.com/cjdaly/GuitarThing/wiki/Concept-and-Construction).
+* Controlling the peripheral [audio devices](https://github.com/cjdaly/GuitarThing/wiki/Audio-Device-Usage).
 
