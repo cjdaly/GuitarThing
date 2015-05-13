@@ -4,7 +4,7 @@ GuitarThing is an Internet of Things inspired artwork framed on a 20x20 inch can
 
 ![GuitarThing](https://github.com/cjdaly/GuitarThing/wiki/images/GuitarThing.jpg)
 
-Embedded in GuitarThing is a Linux computer with several attached audio devices.
+Embedded in GuitarThing is a Linux computer with several audio devices.
 
 ### Technical Specifications
 
