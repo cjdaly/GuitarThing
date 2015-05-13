@@ -15,7 +15,7 @@ Embedded in GuitarThing is a Linux computer with several audio devices.
   * [Shamp Model 1](https://github.com/cjdaly/shamp) for mixing MP3 Trigger and Emic2 audio.
   * USB powered speakers (behind canvas) to amplify Shamp output.
 
-In low light conditions, LEDs on several of the parts cast light onto the canvas.
+LEDs on several of the parts cast light onto the canvas, which is visible in low light conditions.
 
 ![GuitarThing lights](https://github.com/cjdaly/GuitarThing/wiki/images/GuitarThing-lights.jpg)
 
